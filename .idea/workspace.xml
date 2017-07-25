@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a9a289-0298-4e0b-be83-31d5532a87b2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="$PROJECT_DIR$/img/profile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.css" afterPath="$PROJECT_DIR$/css/freelancer.css" />
     </list>
@@ -17,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="942">
-              <caret line="78" column="52" lean-forward="false" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
+            <state relative-caret-position="269">
+              <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -27,8 +28,8 @@
       <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2277">
-              <caret line="379" column="23" lean-forward="false" selection-start-line="379" selection-start-column="23" selection-end-line="379" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -38,8 +39,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header</find>
       <find>footer.</find>
+      <find>img</find>
+      <find>div</find>
+      <find>maincontent</find>
+      <find>border</find>
+      <find>img.profile</find>
+      <find>border:</find>
+      <find>header</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500995009000</updated>
-      <workItem from="1500995011566" duration="1856000" />
+      <workItem from="1500995011566" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="Heading update">
       <created>1500995778502</created>
@@ -152,11 +159,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500996334761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Colours updated cont">
+      <created>1500996892805</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500996892805</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1856000" />
+    <option name="totallyTimeSpent" value="2752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="0" />
@@ -192,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Heading update" />
     <MESSAGE value="Colours updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colours updated" />
+    <MESSAGE value="Colours updated cont" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colours updated cont" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -201,16 +216,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="78" column="52" lean-forward="false" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
+        <state relative-caret-position="269">
+          <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2277">
-          <caret line="379" column="23" lean-forward="false" selection-start-line="379" selection-start-column="23" selection-end-line="379" selection-end-column="23" />
+        <state relative-caret-position="120">
+          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
           <folding />
         </state>
       </provider>

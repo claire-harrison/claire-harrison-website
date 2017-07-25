@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #434fd6;
 }
 h1,
 h2,
@@ -78,6 +78,7 @@ header .container {
 header img {
   display: block;
   margin: 0 auto 20px;
+  border-radius: 30%;
 }
 header .intro-text .name {
   display: block;
