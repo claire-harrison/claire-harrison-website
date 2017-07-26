@@ -15,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="247" column="49" lean-forward="true" selection-start-line="247" selection-start-column="49" selection-end-line="247" selection-end-column="49" />
+            <state relative-caret-position="269">
+              <caret line="90" column="23" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="243" column="1" lean-forward="true" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -48,9 +48,19 @@
       <find>border:</find>
       <find>cabin</find>
       <find>header</find>
-      <find>portfolio</find>
       <find>responsive</find>
       <find>portfolio-lin</find>
+      <find>.portfolio-image</find>
+      <find>portfolio-imag</find>
+      <find>modal</find>
+      <find>gershe</find>
+      <find>img</find>
+      <find>portfoliomodal5</find>
+      <find>img-responsive</find>
+      <find>portfolio</find>
+      <find>font</find>
+      <find>font-famil</find>
+      <find>h2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -59,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/freelancer.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/freelancer.css" />
       </list>
     </option>
   </component>
@@ -151,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1500995009000</updated>
       <workItem from="1500995011566" duration="5305000" />
-      <workItem from="1501054628801" duration="2020000" />
+      <workItem from="1501054628801" duration="6804000" />
     </task>
     <task id="LOCAL-00001" summary="Heading update">
       <created>1500995778502</created>
@@ -195,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500998774640</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed layout of images and Text">
+      <created>1501062041309</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1501062041309</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7325000" />
+    <option name="totallyTimeSpent" value="12109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="0" />
@@ -239,7 +256,8 @@
     <MESSAGE value="Colours finalised, header image changed" />
     <MESSAGE value="Images updated" />
     <MESSAGE value="Changed selected images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed selected images" />
+    <MESSAGE value="Changed layout of images and Text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed layout of images and Text" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -262,18 +280,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="243" column="1" lean-forward="true" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="16" />
+        <state relative-caret-position="269">
+          <caret line="90" column="23" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/freelancer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="247" column="49" lean-forward="true" selection-start-line="247" selection-start-column="49" selection-end-line="247" selection-end-column="49" />
+        <state relative-caret-position="493">
+          <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
           <folding />
         </state>
       </provider>
